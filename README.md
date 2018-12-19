@@ -1,5 +1,7 @@
 ################################################################################################
-Instruções para instalação (via abinário), mais adição de shotcuts e ícone de inicialização
+Instruções para instalação (via abinário), do IntelliJ IDEA / Android Studio, mais adição de
+shotcuts e ícone de inicialização no Linux.
+// distros testadas : Linux Mint, Ubuntu, ElementaryOS, KDE Neon, e Deepin Linux.
 // sem a necessidade de executar via Terminal (arquivo idea.sh)
 // também funciona para instalação e execução do Android Studio, basta adaptar as informações
 // de diretório
