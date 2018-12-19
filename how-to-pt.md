@@ -12,6 +12,7 @@
     $ cd /opt/
     
 03--------------------------------------------
+
   extraia o arquivo baixado, digitando o código:
   
     $ sudo tar -xvzf ~/Downloads/idea-$VERSION_BUILD.tar.gz
