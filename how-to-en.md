@@ -1,6 +1,7 @@
 
 
 ############################################## 
+
 01 ------------------------------------------- 
 
   donwload the IntelliJ-IDEA-$VERSION.tar.gz file on official site
@@ -20,6 +21,7 @@
     // replace "idea-$VERSION_BUILD.tar.gz" with your correct file name
 
 04-------------------------------------------- 
+
 // this step you decide how to create the need file: manual, or using terminal
 
 04.1------------------ manual -------------
@@ -27,6 +29,7 @@
   open your home and create a new text file named "intellij-idea.desktop"
 
 04.1.1--------------------------------------- 
+
 then paste the text and save it
 
     [Desktop Entry]
@@ -43,6 +46,7 @@ then paste the text and save it
     Name[pt-BR]=IntelliJ IDEA
 
 (replace "idea-Ic.183.4886.37" with your correct folder name) 
+
 // run these codes to check it 
     {$ cd /opt/}
     {$ ls }
@@ -83,6 +87,7 @@ press s and then confirm to save.
 type the text below to install
 
       ~$ sudo desktop-file-install intellij-idea.desktop
+      
 ############################################################
 
 that it's all.
