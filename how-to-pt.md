@@ -1,10 +1,13 @@
 ##############################################
+
 01 -------------------------------------------
+
   baixe o arquivo *IntelliJ-IDEA-$VERSION.tar*.gz no site
   
 02--------------------------------------------
+
   abra o terminal (ou precione ctrl+Alt+T)
-  e vá até a pasta /opt/ e digite o seguinte código:
+  e vá até a pasta /opt/  com o seguinte código:
   
     $ cd /opt/
     
@@ -17,6 +20,7 @@
   // de seu arquivo baixado
   
 04--------------------------------------------
+
   // nessa etapa você pode fazer de duas formas.
   // manualmente, ou pelo terminal, você escolha
   // como achar melhor
@@ -27,6 +31,7 @@
     "intellij-idea.desktop"
     
   04.1.1---------------------------------------
+  
     em seguida cole o texto abaixo e salve. 
     (substitua "idea-Ic.183.4886.37" pelo nome sua pasta)
     // execute o código em um terminal para ver 
@@ -74,6 +79,7 @@
       Name[pt-BR]=IntelliJ IDEA
       
   04.2.2--------------------------------------------------
+  
     pressione as teclas ctrl+x para sair do modo de edição;
     
     pressione s e enter para confirmar e salvar.
