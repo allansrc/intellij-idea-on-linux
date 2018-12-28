@@ -1,0 +1,12 @@
+[Desktop Entry]
+Name=Android Studio
+Type=Application
+Exec=/usr/local/android-studio/bin/studio.sh
+Terminal=false
+Icon=/usr/local/android-studio/bin/studio.png
+Comment=Integrated Development Environment
+NoDisplay=false
+Categories=Development;IDE;
+Name[en]=Android Studio
+Name[en_US]=Android Studio
+Name[pt-BR]=Android Studio
